@@ -832,6 +832,15 @@ input:focus ~ .labelStyle {
 .footer p {
     color: rgba(255, 254, 245, 0.65);
 }
+
+.devs {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: #ffffff;
+    background-color: #1e4764;
+    padding: 20px;
+}
   
   /* Seção Propósitos */
   #propositos {
